@@ -1,10 +1,10 @@
-.page {
-  min-height: 100%;
+.intro__text {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6;
   color: #FFFFFF;
-  background: #2A2C2F;
+  margin: 0;
+  margin-top: 40px;
 }
