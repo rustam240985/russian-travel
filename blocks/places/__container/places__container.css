@@ -1,6 +1,6 @@
 .places__container {
   max-width: 984px;
-  padding: 0 100px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

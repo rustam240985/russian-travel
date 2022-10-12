@@ -1,6 +1,6 @@
 .cover {
-  overflow: hidden;
   padding-top: 92px;
+  overflow: hidden;
   width: 100%;
   height: 740px;
   background: url('../../images/cover-trains.jpg') 0 92px/cover no-repeat;
