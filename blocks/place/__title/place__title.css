@@ -7,3 +7,9 @@
   line-height: 1.1;
   color: #FFFFFF;
 }
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+  }
+}
