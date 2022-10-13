@@ -1,6 +1,7 @@
 .cover {
   overflow: hidden;
-  width: 100%;
+  max-width: 1184px;
+  margin: 0 auto;
   height: 740px;
   background: url('../../images/cover-trains.jpg') 0 0/cover no-repeat;
 }

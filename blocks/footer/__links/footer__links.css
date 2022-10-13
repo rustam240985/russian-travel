@@ -4,9 +4,10 @@
   list-style-type: none;
   display: flex;
   gap: 18px;
+  flex-wrap: wrap;
 }
 
-@media screen and (max-width: 691px) {
+@media screen and (max-width: 425px) {
   .footer__links {
     flex-direction: column;
     gap: 32px;

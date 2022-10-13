@@ -1,6 +1,7 @@
 .places {
-  padding: 92px 48px 0;
-  max-width: 984px;
+  padding: 92px 48px;
+  box-sizing: border-box;
+  max-width: 1080px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -8,22 +9,16 @@
   gap: 80px;
 }
 
-@media screen and (max-width: 1024px) {
-  .places {
-    max-width: 928px;
-  }
-}
-
 @media screen and (max-width: 768px) {
   .places {
-    max-width: 720px;
-    padding: 88px 24px 0;
+    padding: 88px 24px;
     gap: 73px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places {
-    padding: 64px 0 0;
+    padding: 64px 0;
+    gap: 50px;
   }
 }
