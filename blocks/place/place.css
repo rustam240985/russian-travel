@@ -2,7 +2,8 @@
   display: grid;
   row-gap: 48px;
   column-gap: 40px;
-  grid-template-columns: 0.95fr 1fr;
+  grid-template-columns: 460px 464px;
+  /* grid-template-columns: 0.95fr 1fr; */
   grid-template-rows: repeat(2, auto);
 }
 
@@ -25,11 +26,3 @@
     row-gap: 32px;
   }
 }
-
-
-/* @media screen and (max-width: 425px) {
-  .place {
-    
-    grid-template-columns: 1fr;
-  }
-} */

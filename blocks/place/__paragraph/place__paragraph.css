@@ -4,10 +4,15 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 163%;
   color: #FFFFFF;
+  text-rendering: optimizeLegibility;
 }
 
+/* .place__paragraph:nth-child(3) {
+  margin-bottom: 0;
+}
+ */
 .place__paragraph:last-of-type {
   margin-bottom: 0;
 }
