@@ -1,7 +1,7 @@
 .header__lang-links {
   list-style-type: none;
   padding: 0;
-  padding-bottom: 15px;
+  margin-bottom: 15px;
   box-sizing: border-box;
   margin: 0;
   display: flex;
